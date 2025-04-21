@@ -59,4 +59,10 @@ All exchange rate data comes from the Central Bank of the Republic of Turkey (TC
 
 # Exit
 # Simply press 'e' and then Enter
-``` 
+```
+
+---
+
+## Screenshot / Ekran Görüntüsü
+
+![Kurkur Example Screenshot](docs/ss.png) 
