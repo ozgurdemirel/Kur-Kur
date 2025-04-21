@@ -1,0 +1,62 @@
+# Build directories
+build/
+bin/
+lib/
+obj/
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.la
+*.lai
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+kurkur
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+CMakeLists.txt.user
+cmake-build-debug/
+cmake-build-release/
+
+# Dependencies
+# Uncomment if you're using a dependency manager and want to ignore dependencies
+# vendor/
+# third_party/  # Don't ignore as project seems to have custom third party code
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Testing
+*.gcno
+*.gcda
+*.gcov
+
+# Package files
+*.tar.gz
+*.zip 
